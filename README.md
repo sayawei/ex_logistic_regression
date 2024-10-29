@@ -37,9 +37,9 @@ This project uses a dataset of IT job roles with their projected growth by 2030.
 ## Dataset
 
 The IT job dataset contains the following columns:
--`Domain`: Technology domain of the job (e.g., Cloud Computing, Cybersecurity, Data Analytics)
--`Job Title`: Title of the job role (e.g., Analyst, Engineer, Manager)
--`Projected Growth by 2030`: Projected growth rate for the job role by 2030
+- `Domain`: Technology domain of the job (e.g., Cloud Computing, Cybersecurity, Data Analytics)
+- `Job Title`: Title of the job role (e.g., Analyst, Engineer, Manager)
+- `Projected Growth by 2030`: Projected growth rate for the job role by 2030
 
 ## Steps
 
